@@ -93,7 +93,7 @@ address = {street = "20 S College Ave", city = "Salem", region = "VA", postcode 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.3017505", longitude = "-80.0547945"}
+coordinates = {latitude = "37.2933229", longitude = "-80.054392"}
 
 # Directions for visitors to locate you.
 directions = "Enter the Annex from East Clay Street door. I'm in room 105. "
