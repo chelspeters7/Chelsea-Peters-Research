@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Feel free to contact Dr. Peters here or shoot her an email. 
+Feel free to contact Dr. Peters here or just shoot her an email. 
