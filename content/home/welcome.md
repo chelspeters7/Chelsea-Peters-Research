@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Wowchemy Research Group"
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: ![image](https://user-images.githubusercontent.com/26720063/118318848-f2354100-b4c7-11eb-8fdb-3ae7acd1a0fc.png)
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Peters' Research Group was founded in 2020.
