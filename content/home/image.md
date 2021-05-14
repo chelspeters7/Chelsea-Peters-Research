@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: flir_20210306T154029.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
